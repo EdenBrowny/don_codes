@@ -1,0 +1,63 @@
+@import "../../global.scss";
+
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: 193px;
+  top: 40px;
+}
+
+.styles__aboutUs {
+  width: 20.04%;
+  font-family: "Inria Serif";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: $black;
+  align-self: stretch;
+  margin-right: 81px;
+}
+
+.styles__services {
+  width: 13.95%;
+  font-family: "Inria Serif";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: $black;
+  align-self: stretch;
+  margin-right: 78px;
+}
+.styles__brands {
+  width: 11.96%;
+  font-family: "Inria Serif";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: $black;
+  align-self: stretch;
+  margin-right: 74px;
+}
+.styles__reference {
+  width: 16.85%;
+  font-family: "Inria Serif";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: $black;
+  align-self: stretch;
+}
+
+a {
+  text-decoration: none;
+  color: $black;
+}
+
+a:hover {
+  color: green;
+}
+// .navbar {
+//   background-color: black;
+//   display: flex;
+// }

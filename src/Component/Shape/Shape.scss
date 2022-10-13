@@ -1,0 +1,25 @@
+@import "../../global.scss";
+
+.rectangleGroup {
+  padding: 1px 20px 0 0;
+  position: relative;
+}
+.rectangle1 {
+  width: 65px;
+  height: 58px;
+  background-color: $black;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.flexWrapperOne {
+  background-color: $white;
+  padding: 765px 880px 372px 500px;
+  box-shadow: 8px 8px 5px 0 $transparent-black;
+  position: relative;
+}
+.rectangle2 {
+  width: 8px;
+  height: 63px;
+  background-color: $black;
+}
